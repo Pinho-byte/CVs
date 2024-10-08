@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+ 
+}
+.container {
+  background: linear-gradient(to bottom, #f0f0f0, #fff);
+  border: 1px solid #ccc;
+
+}
+
+img {
+  width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
+  border-radius: 50%; /* Arredonda a imagem para um formato circular */
+  margin-right: 20px;
+}
